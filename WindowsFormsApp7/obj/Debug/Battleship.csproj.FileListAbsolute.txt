@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\Battleship.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.about.resources
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.game.resources
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.instractions.resources
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.menu.resources
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.settings.resources
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\Battleship.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\User\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
